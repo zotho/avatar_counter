@@ -1,0 +1,8 @@
+click==7.1.1
+Pillow==7.1.2
+plural-ru==2019.4.13
+public==2019.4.13
+pyaes==1.6.1
+pyasn1==0.4.8
+rsa==4.0
+Telethon==1.13.0
