@@ -1,5 +1,5 @@
 click==7.1.1
-Pillow==7.1.2
+Pillow>=8.1.1
 plural-ru==2019.4.13
 public==2019.4.13
 pyaes==1.6.1
