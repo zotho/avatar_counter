@@ -4,5 +4,5 @@ plural-ru==2019.4.13
 public==2019.4.13
 pyaes==1.6.1
 pyasn1==0.4.8
-rsa==4.0
+rsa==4.1
 Telethon==1.13.0
